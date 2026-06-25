@@ -40,11 +40,10 @@ img{
 .three-column{
     display: grid;
     grid-template-columns: repeat(3, 1fr);
-    gap: 100px; 
-    width:  80%;
+    gap: 50px; 
+    width:  100%;
     margin: auto;
-    margin-top: 40px;
-    margin-bottom: 50px;
+    margin-top: 50x;
 }
 
 
